@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618896511 source:f:\documents\c projects\c projects\oddeven\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618896763 source:f:\documents\cse\c projects\c projects\oddeven\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,85 @@
+# General
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.class
+*.jar
+*.log
+*.tmp
+*.cache
+*.swp
+*.swo
+*.bak
+*.db
+.DS_Store
+Thumbs.db
+
+# C / C++
+*.a
+*.so
+*.lo
+*.la
+*.dylib
+*.gcda
+*.gcno
+*.gcov
+*.dSYM/
+*.vscode/
+*.cbp
+*.dev
+Makefile
+CMakeCache.txt
+CMakeFiles/
+
+# Java
+*.war
+*.ear
+*.iml
+/.idea/
+/out/
+/bin/
+
+# C# / Unity
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.unityproj
+*.manifest
+*.DS_Store
+*.apk
+*.aab
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Logs/
+/UserSettings/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Web Development
+node_modules/
+dist/
+build/
+*.lock
+
+# Competitive Programming (If you store test cases or temp files)
+*.test
+*.input
+*.output
+
+# NetBeans-specific
+nbproject/
+build/
+dist/
+*.nbattrs

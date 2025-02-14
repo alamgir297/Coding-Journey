@@ -1,0 +1,8 @@
+Instructions to run the program
+
+1. Open "AARchive trivia final.cbp" file with codeblocks
+2. Go to project>> build options>> linker settings>> link libraries>> add
+3. Enter "winmm" in file name and press ok
+done!!
+
+build and run the program and enjoy

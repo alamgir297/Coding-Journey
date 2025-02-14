@@ -1,0 +1,79 @@
+/* .active {
+    background-color: red;
+} */
+
+p span {
+    position: relative;
+}
+
+.correct {
+    color: rgb(27, 211, 27);
+}
+
+.incorrect {
+    color: red;
+}
+
+.active {
+    color: blue;
+}
+
+.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 100%;
+    background-color: blue;
+    animation: blink 1s ease-in-out infinite;
+    opacity: 0;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-up {
+    0% {
+        opacity: 0;
+        transform: translateY(30px) scale(0.9);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0px) scale(1);
+    }
+}
+
+@keyframes fade-out {
+    0% {
+        opacity: 1;
+        transform: translateY(0px) scale(1);
+
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(30px) scale(0.9);
+    }
+
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.fadeupAnimation {
+    animation: fade-up 0.5s;
+}
+
+.fadeOutAnimation {
+    animation: fade-out 0.5s;
+}

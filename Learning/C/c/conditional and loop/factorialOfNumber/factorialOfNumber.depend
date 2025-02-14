@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619110409 source:f:\documents\c projects\c\factorialofnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619796717 source:f:\documents\cse\c projects\c\factorialofnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

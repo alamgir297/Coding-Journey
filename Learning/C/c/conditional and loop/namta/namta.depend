@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619797003 source:f:\documents\cse\c projects\c\namta\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619797003 source:f:\documents\cse\c projects\c\conditional and loop\namta\main.c
+	<stdio.h>
+	<stdlib.h>
+

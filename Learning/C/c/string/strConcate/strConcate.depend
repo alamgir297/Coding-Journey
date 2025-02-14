@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624807849 source:f:\documents\cse\c projects\c\string\strconcate\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

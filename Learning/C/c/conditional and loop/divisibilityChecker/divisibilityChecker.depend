@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619756082 source:f:\documents\cse\c projects\c\divisibilitychecker\main.c
+	<stdio.h>
+	<stdlib.h>
+

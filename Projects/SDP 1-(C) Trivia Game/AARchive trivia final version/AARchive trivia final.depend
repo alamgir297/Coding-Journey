@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1637843482 source:d:\study\coding\sdp 1\aarchive trivia final version\main.c
+	<stdbool.h>
+	<unistd.h>
+	<Windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	"sounds.h"
+	"console_frames.h"
+	"functions.h"
+
+1637760412 d:\study\coding\sdp 1\aarchive trivia final version\sounds.h
+
+1637761176 d:\study\coding\sdp 1\aarchive trivia final version\console_frames.h
+
+1637762797 d:\study\coding\sdp 1\aarchive trivia final version\functions.h
+

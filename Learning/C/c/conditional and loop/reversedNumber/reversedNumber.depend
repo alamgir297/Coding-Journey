@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619758615 source:f:\documents\cse\c projects\c\reversednumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

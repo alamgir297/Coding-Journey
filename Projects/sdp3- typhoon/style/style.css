@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* button {
+  background-color: #ffffff55;
+  backdrop-filter: blur(100px)!important;
+
+} */

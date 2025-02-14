@@ -1,0 +1,13 @@
+/* Custom CSS for animation */
+.animate-slide-down {
+    animation: slideDown 0.5s ease-out forwards;
+    opacity: 0;
+    transform: translateY(-100px);
+}
+
+@keyframes slideDown {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

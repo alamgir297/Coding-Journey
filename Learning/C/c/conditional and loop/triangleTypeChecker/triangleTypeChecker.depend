@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619756789 source:f:\documents\cse\c projects\c\triangletypechecker\main.c
+	<stdio.h>
+	<stdlib.h>
+

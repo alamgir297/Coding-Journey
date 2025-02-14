@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606401701 source:c:\users\hp\downloads\c projects\practice\practice.c
+	<stdio.h>
+
+1606402566 source:c:\users\hp\downloads\c projects\practice\command line arguments.c
+	<stdio.h>
+

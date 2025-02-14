@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610265475 source:c:\users\hp\downloads\c projects\numberguessinggame v3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610267276 source:f:\study\cse\coding\c projects\c projects\numberguessinggame v3\main.c
+	<stdio.h>
+	<stdlib.h>
+

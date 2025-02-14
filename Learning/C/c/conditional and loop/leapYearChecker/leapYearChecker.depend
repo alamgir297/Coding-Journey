@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619757744 source:f:\documents\cse\c projects\c\leapyearchecker\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622194269 source:f:\documents\cse\contesst\contesra\main.c
+	<stdio.h>
+	<stdlib.h>
+
