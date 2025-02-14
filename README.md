@@ -25,18 +25,21 @@ This section contains my exploration of different programming languages and conc
 - **`Learning/C#/`** – C# and Unity-related learning projects.    
 - **`Learning/OOP-Concepts/`** – Object-Oriented Programming exercises.  
 
-🛠️ Projects
+# 🛠️ Projects
+
 This section includes various projects I’ve worked on, ranging from database-driven applications to software development and web-based tools.
 
-📌 DBMS & DDBMS Projects:
-DBMS-Food_Hub/ 🍔 – A database management system for a food ordering platform.
-DDBMS-SmartLib/ 📚 – A distributed database system for managing a digital library.
-🖥️ Software Development Projects (SDP):
-SDP 1 - Trivia Game (C) 🎲 – A trivia-based game written in C.
-SDP 2 - Mess Manager (Java) 🍽️ – A Java-based application to manage a student mess system.
-SDP 3 - Typhoon ⌨️ – A web-based typing speed test to measure and improve typing accuracy.
-⚠ Note: My game development projects (Unity-based) are in separate repositories. If you're interested in them, check out those repos on my profile! 🎮
----
+## 📌 DBMS & DDBMS Projects:
+- **DBMS-Food_Hub 🍔** – A database management system for a food ordering platform.
+- **DDBMS-SmartLib 📚** – A distributed database system for managing a digital library.
+
+## 🖥️ Software Development Projects (SDP):
+- **SDP 1 - Trivia Game (C) 🎲** – A trivia-based game written in C.
+- **SDP 2 - Mess Manager (Java) 🍽️** – A Java-based application to manage a student mess system.
+- **SDP 3 - Typhoon ⌨️** – A web-based typing speed test to measure and improve typing accuracy.
+
+⚠ **Note**: My game development projects (Unity-based) are in separate repositories. If you're interested in them, check out those repos on my profile! 🎮
+
 
 ## ⚠️ Notes  
 🔹 Most of the **problem-solving codes follow competitive programming conventions**, meaning **short variable names and minimal comments** (speed > readability).  
@@ -49,7 +52,7 @@ SDP 3 - Typhoon ⌨️ – A web-based typing speed test to measure and improve 
 I wanted to **document my entire coding journey**—from solving my first problems to working on larger projects.
 This is not a curated showcase but rather a **history of my learning and progress** in programming.  
 
-📌 Why Upload Now?
+##📌 Why Upload Now?
 I started coding around mid-2021, but I never uploaded my work before. This repository is a way to document my journey, 
 showcasing everything I’ve learned and worked on over time. Some of these codes might be unpolished, but they represent my growth in programming.
 I’ve included everything, even the earliest and simplest codes, because they are part of my learning process.
